@@ -1,0 +1,36 @@
+_repo: Psychology-and-Industrial-Efficiency_15154
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Münsterberg, Hugo
+    aliases:
+    - Hugo Münsterberg
+    - Munsterberg, Hugo
+    birthdate: 1863
+    deathdate: 1916
+    gutenberg_agent_id: '5888'
+    url: http://www.gutenberg.org/2009/agents/5888
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_M%C3%BCnsterberg
+description: ''
+gutenberg_bookshelf:
+- Psychology
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Psychophysiology'
+- !lcc 'BF'
+- !lcsh 'Industrial efficiency'
+- !lcsh 'Psychology, Industrial'
+title: Psychology and Industrial Efficiency
+url: http://www.gutenberg.org/ebooks/15154
